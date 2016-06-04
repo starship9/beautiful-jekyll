@@ -4,13 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Nishank Saini. I am a computer science undergrad, who's just completed 2 years at Shiv Nadar University, Greater Noida. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### What do I do, you ask?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Well, I've always been an avid dota player, I follow the scene competitively as well. I do read quite a lot as well, right now, I'm reading George Orwell (fantastic stuff, by the way, do give it a shot). Apart from all that, I watch tons of anime in my free time, and I am a comic buff as well. I spend a ***significant*** amount of time on Reddit, as well as on Quora. 
+I am also a staunch believer of the R + L = J theory, but only time will tell if my beliefs are justified.
