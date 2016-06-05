@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Who I am
+
 ---
 
 My name is Nishank Saini. I am a computer science undergrad, who's just completed 2 years at Shiv Nadar University, Greater Noida. 
