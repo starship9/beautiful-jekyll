@@ -9,5 +9,5 @@ My name is Nishank Saini. I am a computer science undergrad, who's just complete
 
 ### What do I do, you ask?
 
-Well, I've always been an avid dota player, I follow the scene competitively as well. I do read quite a lot as well, right now, I'm reading George Orwell (fantastic stuff, by the way, do give it a shot). Apart from all that, I watch tons of anime in my free time, and I am a comic buff as well. I spend a ***significant*** amount of time on Reddit, as well as on Quora. 
+Well, I've always been an avid dota player, I follow the scene competitively as well. I do read quite a lot as well, right now, I'm reading George Orwell (fantastic stuff, by the way, do give it a shot). Apart from all that, I watch tons of anime in my free time, and I am a comic buff as well. I spend a _significant_ amount of time on Reddit, as well as on [Quora](https://www.quora.com/profile/Nishank-Saini-1). 
 I am also a staunch believer of the R + L = J theory, but only time will tell if my beliefs are justified.
